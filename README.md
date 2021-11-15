@@ -1,5 +1,5 @@
 - Hi, I’m @fuadagus
 - I’m interested in mobile development
 - I’m currently learning flutter
-- I still new in programming, but you can look at my repository that i work hard every night to increase my skills & problem solving at programming
+- I still new in programming, but you can look at my repository that i work hard every night to increase my skills & problem solving in programming stuff
 - feel free to fork or contribute to my projects 
