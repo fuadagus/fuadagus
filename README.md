@@ -1,5 +1,2 @@
-- Hi, I’m @fuadagus
-- I’m interested in mobile development
-- I’m currently learning flutter
-- I still new in programming, but you can look at my repository that i work hard every night to increase my skills & problem solving in programming stuff
-- feel free to fork or contribute to my projects 
+
+Hi, I'm Fuad. I live in Surabaya, East Java, Indonesia. I'm Cross Platform Developer (Android, IOS, & Front-End Web) using Flutter framework. You can see my portfolio in this site
